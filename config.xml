@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/PassHandDribb" version="1.0.0" viewmodes="maximized">
+    <access origin="*" subdomains="true"></access>
+    <tizen:application id="W1aJpKPoQZ.fireGear" package="W1aJpKPoQZ" required_version="2.3.2"/>
+    <content src="index.html"/>
+    <feature name="tizen.org/feature/screen.size.all"/>
+    <feature name="tizen.org/feature/network.internet"/>
+    <feature name="tizen.org/feature/sensor.accelerometer"/>
+    <feature name="tizen.org/feature/sensor.gravity"/>
+    <feature name="tizen.org/feature/sensor.gyroscope"/>
+    <icon src="icon.png"/>
+    <name>PassHandDribb</name>
+    <tizen:privilege name="http://tizen.org/privilege/internet"/>
+    <tizen:profile name="wearable"/>
+</widget>

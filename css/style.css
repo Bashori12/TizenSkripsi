@@ -1,0 +1,14 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+#Pass, #Hand, #Drib{
+	font-size: 20px; 
+	color: black; 
+	margin-top: 80px;
+	background-color: yellow;
+}
